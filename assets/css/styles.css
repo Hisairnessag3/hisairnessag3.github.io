@@ -784,7 +784,7 @@ $bars: 3;
   color: white;
   text-align: center;
   text-indent: -9999px;
-  background-color: #428bca;
+  background-color: #3AAA64;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
           box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
 }
